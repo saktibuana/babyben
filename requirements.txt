@@ -1,0 +1,6 @@
+nextcord==2.0.0a3
+python-dotenv==0.19.2
+apscheduler==3.8.1
+google-api-python-client==2.34.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.4.6
